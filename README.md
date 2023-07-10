@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me and my Team:</h3>
 <p align="left">
-<a href="https://discord.gg/mXKdyJmfJv" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30888&format=png" style='filter: invert(39%) sepia(96%) saturate(1436%) hue-rotate(188deg) brightness(97%) contrast(86%)' alt="RedSky Studios" height="40" width="40"></a>
+<a href="https://discord.gg/mXKdyJmfJv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"height="40" width="40"></a>
 </p>
 
 <h3 align="left">Languages:</h3>
