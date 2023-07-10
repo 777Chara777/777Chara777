@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm skyred</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=777Chara777&label=Profile%20views&color=0e75b6&style=flat" alt="777Chara777" /> </p>
+
 - 🔭 I’m currently working on <a href='https://github.com/777Chara777/MyEngine'>MyEngine</a>
 
 - 🌱 I’m currently learning **Rust, cpp**
@@ -20,3 +22,8 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <h3 align="left">Engine use:</h3>
 <a href="https://github.com/777Chara777/MyEngine" target="_blank" rel="noreferrer"> <img src="" alt="MyEngine" width="40" height="40"/> </a> </p>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=777Chara777&show_icons=true&locale=en&layout=compact" alt="777Chara777" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=777Chara777&" alt="777Chara777" /></p>
