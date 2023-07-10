@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm skyred</h1>
-- 🔭 I’m currently working on <a src='https://github.com/777Chara777/MyEngine'>MyEngine</a>
-- 🔭 I’m currently working on [MyEngine](https://github.com/777Chara777/MyEngine)
+- 🔭 I’m currently working on <a href='https://github.com/777Chara777/MyEngine'>MyEngine</a>
 
 - 🌱 I’m currently learning **Rust, cpp**
 
