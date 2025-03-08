@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm skyred</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=777Chara777&label=Profile%20views&color=0e75b6&style=flat" alt="777Chara777" /> </p>
 
-- 🔭 I’m currently working on <a href='https://github.com/777Chara777/MyEngine'>MyEngine</a>
-
 - 🌱 I’m currently learning **Rust, cpp**
 
-- ⚡ My team **RedSky Studios**
+- ⚡ My team **The DoorKnob Studio**
 
 <h3 align="left">Connect with me and my Team:</h3>
 <p align="left">
