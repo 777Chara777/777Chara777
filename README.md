@@ -2,8 +2,10 @@
 <h1 align="center">Hello 👋, I'm <strong>skyred</strong></h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@777Chara777&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://count.getloli.com/@777Chara777?name=777Chara777&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1" alt="Profile views" />
 </p>
+
+
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&separator=%3C&lines=Touch+some+grass+;)" alt="Typing SVG" /></a>
