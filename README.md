@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm <strong>skyred</strong></h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@777Chara777?name=777Chara777&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=1" alt="Profile views" />
+  <img src="https://count.getloli.com/@777Chara777?name=777Chara777&theme=booru-lewd&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
 </p>
 
 
