@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=777Chara777&theme=github_dark" alt="GitHub Streak Stats" />
+  TheDoorKnob Studio
 </p>
