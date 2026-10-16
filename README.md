@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <strong>Team:</strong> The DoorKnob Studio
+  <strong>Team:</strong> Dorko
 </p>
 
 <p align="center">
